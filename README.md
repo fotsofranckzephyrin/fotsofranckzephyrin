@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @fotsofranckzephyrin
 - 👀 I’m interested in programmation
-- 🌱 I’m currently learning programmation
-- 💞️ I’m looking to collaborate on group of programmer
+-  I’m currently learning programmation
+-  I’m looking to collaborate on group of programmer
 - 📫 How to reach me conctact me by my whatsapp conctact
 
 <!---
